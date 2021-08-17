@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DCDGaming
+- 👀 I’m interested in learning what I can about programming and developing a mod for a game I love playing.
+- 🌱 I’m currently learning SQL for work and than want to move onto other languages as I see fit.
+- 💞️ I’m looking to collaborate on nothing at the moment.
